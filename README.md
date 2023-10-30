@@ -53,4 +53,4 @@ I want to learn more about CSS Grid because I believe that it is a crucial skill
 
 ### Useful resources
 
-- [Example resource 1]([https://www.example.com](https://www.youtube.com/watch?v=-sgBdrVI6w4&t=220s)) - This helped me to learn more about css grid.
+- [[https://www.example.com](https://www.youtube.com/watch?v=-sgBdrVI6w4&t=220s)] - This video helped me to learn more about css grid.
